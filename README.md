@@ -1,4 +1,4 @@
-# 🏆 Masterclass MQL5 : Programmer l'Ultime Bot de Scalping Or (XAUUSD) M1
+# 🏆 Masterclass MQL5 : Programmer Bot de Scalping Or (XAUUSD) M1
 
 ## 🔥 Vous n'avez pas le temps d'apprendre le MQL5 ?
 
