@@ -243,7 +243,7 @@ void Securite_FermerTout() {
 
 *Fichier de référence : `Experts/GoldScalper.mq5`*
 
-Maintenant que nos fondations de Briques `.mqh` ultra-robustes sont prêtes et hermétiques au fond de la soute MQL5, le fichier en orbite public `GoldScalper.mq5` peut briller. C'est le chef d'orchestre, il est incroyablement vierge, presque semblable à de la poésie informatique française.
+Maintenant que nos fondations de Briques `.mqh` ultra-robustes sont prêtes et hermétiques au fond de la soute MQL5, le fichier en orbite public `GoldScalper.mq5` peut briller. C'est le chef d'orchestre.
 
 Il exploite les structures natives MQL5 :
 1. `OnInit()` : S'exécute le Jour J, lors du glisser-déposer. Il appelle et charge les capteurs d'indicateurs (les "Handles"). Il s'assure impitoyablement que l'Engine a réussi à communiquer avec MT5.
